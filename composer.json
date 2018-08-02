@@ -1,5 +1,5 @@
 {
-    "required-dev":{
-    "phpunit/phpunit":"*"
+    "required":{
+	"dompdf/dompdf": "v0.7.0"
     }
 }
