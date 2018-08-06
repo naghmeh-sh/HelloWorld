@@ -1,5 +1,14 @@
 {
-    "required":{
-	"dompdf/dompdf": "v0.7.0"
+    "name": "HW",
+    "description": "Test Composer",
+    "type": "git",
+    "keywords": ["HW"],
+    
+    
+    "autoload": {
+        "psr-4": {
+            "HW\\": ""
+        }
     }
+    
 }
