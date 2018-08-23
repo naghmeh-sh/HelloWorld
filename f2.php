@@ -4,3 +4,5 @@ function sayHello($name){
 }
 sayHello('Naghi');
 sayHello('Naghi2');
+sayHello('Sasi');
+sayHello('Mary');
