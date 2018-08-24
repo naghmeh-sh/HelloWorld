@@ -5,3 +5,5 @@ function sayHello($name){
 
 sayHello('11111');
 sayHello('22222222');
+sayHello('33333');
+sayHello('44444');
